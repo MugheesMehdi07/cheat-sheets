@@ -198,9 +198,7 @@ random.randint(1, 10)  # Random integer between 1 and 10
 
 #### While Loops
 
-- Basic While Loop: Repeats as long as a certain
-
- boolean condition is met.
+- Basic While Loop: Repeats as long as a certain boolean condition is met.
 
     ```python
     i = 0
@@ -373,6 +371,3 @@ random.randint(1, 10)  # Random integer between 1 and 10
     with open("file.txt", "r") as file:
         content = file.read()
     ```
-
-```
-
