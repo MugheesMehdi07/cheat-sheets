@@ -1,7 +1,5 @@
-Certainly! Below is the consolidated Markdown content of the provided Python code:
 
-```markdown
-# Python Cheat Sheet for Coding Assessments
+
 
 ## Basic Syntax and Data Types
 
