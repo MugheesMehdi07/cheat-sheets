@@ -1,6 +1,4 @@
-Sure, I'll format the answers in Markdown for GitHub. Due to the length, I'll break it into multiple parts. Here's the first part:
 
-```markdown
 ## Python Q&A
 
 ### 1. What is Python?
@@ -75,11 +73,9 @@ Python is generally not considered complex in terms of learning and using. Howev
 A namespace in Python is a mapping from names to objects. Most namespaces are currently implemented as Python dictionaries. Namespaces help avoid naming conflicts and maintain the scope of variables.
 
 **Example:** Variables defined inside a function are in a different namespace than those defined outside.
-```
 
-Continuing with the Markdown format for the Python Q&A:
 
-```markdown
+
 ### 12. Decorators in Python
 Decorators are functions or classes that modify the behavior of other functions or methods. They allow extending or altering functionality dynamically.
 
@@ -205,11 +201,9 @@ Structured Query Language) is specifically for managing and querying databases.
 - Text Mode: For reading and writing standard text files.
 - Binary Mode: For working with binary data like images or videos.
 - Universal Newlines Mode: Handles newline characters consistently across different platforms.
-```
 
-Continuing with the Markdown format for the Python Q&A:
 
-```markdown
+
 ### 28. Unit Test in Python
 Unit testing involves testing individual components of a program to ensure each part works correctly. Python provides a `unittest` module for writing and running unit tests.
 
@@ -440,11 +434,8 @@ The `enumerate()` function adds a counter to an iterable and returns it as an en
 ```python
 list(enumerate(['apple', 'banana', 'grape']))  # Results in [(0, 'apple'), (1, 'banana'), (2, 'grape')]
 ```
-```
 
-Continuing with the Markdown format for the Python Q&A:
 
-```markdown
 ### 53. What Does `len()` Do in Python?
 The `len()` function returns the number of items in an object, such as a list, tuple, string, or dictionary.
 
@@ -564,9 +555,7 @@ for num in [1, 2, 3, 4, 5]:
     print(num)
 ```
 
-### 67. What is an
-
- Iterator in Python?
+### 67. What is an Iterator in Python?
 An iterator in Python is an object that can be iterated upon and returns data one element at a time. Most built-in containers in Python are iterable.
 
 **Example:**
