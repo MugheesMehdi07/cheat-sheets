@@ -1,5 +1,4 @@
 
-```markdown
 # Docker Cheat Sheet
 
 ## Basic Docker Concepts
