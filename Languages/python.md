@@ -528,5 +528,5 @@ random.randint(1, 10)  # Random integer between 1 and 10
     model = LinearRegression().fit(X_train, y_train)
     predictions = model.predict(X_test)
     ```
-```
+
 
