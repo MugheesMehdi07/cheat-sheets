@@ -84,6 +84,12 @@
   docker run -it [image_name] [command]
   ```
 
+  - **Docker Run Django Commands**:
+  ```bash
+  sudo docker exec -it <container_name> python manage.py <command>
+  ```
+
+
 ## Dockerfile Instructions
 
 - **FROM**: Base image to use.
@@ -122,6 +128,11 @@
 - **Remove a volume**:
   ```bash
   docker volume rm [volume_name]
+  ```
+
+- **Clean up Docker**:
+  ```bash
+    docker system prune -a
   ```
 
 ## Network Management
