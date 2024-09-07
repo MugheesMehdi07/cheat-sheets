@@ -13,6 +13,8 @@ This repository contains cheat sheets designed to help developers by providing q
 - **DevOps**: Features references for Docker, Kubernetes, and CI/CD pipelines.
 - **Database**: Contains cheat sheets for SQL, NoSQL databases like MongoDB, and other database management tips.
 
+  Flow Chart Link : https://www.figma.com/board/SfwQLrRLFJ63kwKvlmJs3t/Full-Stack-Dev-Overview?node-id=0-1
+
 ## How to Use
 
 Each directory in this repository is dedicated to a particular technology stack. Browse through the folders to find the cheat sheets relevant to your needs.
