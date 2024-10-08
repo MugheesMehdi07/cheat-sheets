@@ -314,5 +314,3 @@ import seaborn as sns
     ```
 
 ---
-
-This cheat sheet covers a wide range of plotting options for both **Matplotlib** and **Seaborn**, from basic plots to more advanced features and customizations. Let me know if you need further customization!
