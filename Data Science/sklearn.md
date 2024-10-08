@@ -1,6 +1,4 @@
-Here's a detailed cheat sheet for **Scikit-learn** and **SciPy**. This includes a wide range of algorithms for prediction, evaluation metrics, and feature engineering, along with notes on when and where to use each approach.
 
-```
 ## 1. Machine Learning with Scikit-learn & SciPy Cheat Sheet
 
 ### a. Importing Libraries
